@@ -64,6 +64,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 co-author
+by vatler lett
 
 ### `yarn build` fails to minify
 

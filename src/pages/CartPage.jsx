@@ -39,6 +39,7 @@ const CartPage = (props) => {
 
   const favoriteItem = props.favorite.items;
   const cartItems = props.cart;
+  // const cartItems = props.cart;
 
   let totalBookPrice = 0;
   let delivery_cost = props.delivery ? props.delivery[0].price : 0;

@@ -5,5 +5,8 @@
         "asidebar",
         "devtools",
         "lazyload"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
